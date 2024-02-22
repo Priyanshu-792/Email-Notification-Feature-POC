@@ -1,13 +1,22 @@
-<form (ngSubmit)="register()">
-  <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" [(ngModel)]="email" name="email" required>
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-  </div>
-  <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" [(ngModel)]="password" name="password" required>
-  </div>
 
-  <button type="submit" class="btn btn-primary">Submit</button>
+<div class="container">
+
+<form class="registration-form" (ngSubmit)="submitForm()">
+  <h3>Registration Page:</h3>
+  <label for="name" class="form-label">Name:</label>
+  <input type="text" placeholder="Name" name="name"  [(ngModel)]="formData.name" required>
+
+  <label for="email" class="form-label">Email:</label>
+  <input type="email" placeholder="Email" name="email" [(ngModel)]="formData.email" required>
+
+  <label for="password" class="form-label">Password:</label>
+  <input type="password" placeholder="Password" name="password" [(ngModel)]="formData.password" required>
+
+  <label for="confirmPassword" class="form-label">Confirm Password:</label>
+    <input type="password"  placeholder="confirm-Password" name="confirmPassword" [(ngModel)]="formData.confirmPassword" required>
+  
+    <button  type="submit" class="btn btn-primary">Register</button>
+    <button (click)="resetData()" id="reset-btn" type="submit" class="btn btn-primary">Reset Password</button>
 </form>
+
+</div>

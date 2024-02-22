@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+
+.container{
+  margin:10px;
+  padding:50px;
+
+}
+
+#reset-btn{
+position:relative;
+margin-right:10px;
+float:right;
+color:white;
+background-color: rgb(242, 89, 89);
+}
+
+#reset-btn:hover{
+  background-color: red;
+}
+
+form{
+  margin:5px;
+  padding:5px;
+  background-color: rgb(202, 204, 207);
+  border-radius: 10px;
+}
+button{
+  background-color: #4CAF50;
+}
+.registration-form {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.registration-form input[type="text"], .registration-form input[type="email"], .registration-form input[type="password"] {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.registration-form input[type="submit"] {
+  width: 80%;
+  margin: 3px auto;
+  padding: 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

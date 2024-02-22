@@ -1,0 +1,41 @@
+/* reset-data.component.css */
+
+.reset-container {
+    max-width: 400px;
+    padding:40px;
+    margin:30px auto;
+    background-color: #ccc;
+    border-radius: 10px;
+  }
+  form{
+    padding:5px;
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
