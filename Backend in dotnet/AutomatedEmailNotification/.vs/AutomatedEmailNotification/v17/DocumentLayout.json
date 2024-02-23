@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\controllers\\resetpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\controllers\\resetpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\services\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\services\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\services\\emailservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\services\\emailservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|e:\\promact assignments\\email-notification-feature-poc\\backend in dotnet\\automatedemailnotification\\automatedemailnotification\\automatedemailnotification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C58BDF0-5CE1-4F3A-8A8D-FF05963965A8}|AutomatedEmailNotification\\AutomatedEmailNotification.csproj|solutionrelative:automatedemailnotification\\automatedemailnotification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Models\\EmailDto.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Models\\EmailDto.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Models\\EmailDto.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Models\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:07:44.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\appsettings.json",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\appsettings.json",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\appsettings.json",
+              "RelativeToolTip": "AutomatedEmailNotification\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T10:20:10.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Program.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Program.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Program.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:50:34.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Services\\EmailService\\EmailService.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Services\\EmailService\\EmailService.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Services\\EmailService\\EmailService.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Services\\EmailService\\EmailService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:49:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Services\\EmailService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Services\\EmailService\\IEmailService.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Services\\EmailService\\IEmailService.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Services\\EmailService\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:49:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetPasswordController.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Controllers\\ResetPasswordController.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Controllers\\ResetPasswordController.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Controllers\\ResetPasswordController.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Controllers\\ResetPasswordController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:45:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\Controllers\\EmailController.cs",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "AutomatedEmailNotification\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:06:57.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutomatedEmailNotification.csproj",
+              "DocumentMoniker": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\AutomatedEmailNotification.csproj",
+              "RelativeDocumentMoniker": "AutomatedEmailNotification\\AutomatedEmailNotification.csproj",
+              "ToolTip": "E:\\Promact assignments\\Email-Notification-Feature-POC\\Backend in dotnet\\AutomatedEmailNotification\\AutomatedEmailNotification\\AutomatedEmailNotification.csproj",
+              "RelativeToolTip": "AutomatedEmailNotification\\AutomatedEmailNotification.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T09:05:22.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

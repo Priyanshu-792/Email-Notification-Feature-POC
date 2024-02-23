@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutomatedEmailNotification",
+    "\\AutomatedEmailNotification\\Controllers",
+    "\\AutomatedEmailNotification\\Models",
+    "\\AutomatedEmailNotification\\Services",
+    "\\AutomatedEmailNotification\\Services\\EmailService"
+  ],
+  "SelectedNode": "\\AutomatedEmailNotification.sln",
+  "PreviewInSolutionExplorer": false
+}

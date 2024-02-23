@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "AutomatedEmailNotification.Controllers.EmailController",
+    "Method": "SendConfirmation",
+    "RelativePath": "api/Email/sendConfirmation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RegistrationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutomatedEmailNotification.Controllers.ResetPasswordController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AutomatedEmailNotification.Controllers.ResetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
