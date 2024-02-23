@@ -1,20 +1,21 @@
-<!-- reset-data.component.html -->
+
+   <!-- reset-data form page -->
 <div class="reset-container">
-    <h2>Password Reset</h2>
-    <form (ngSubmit)="submitForm()">
-      <div class="form-group">
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" [(ngModel)]="resetData.email" required>
-      </div>
-      <div class="form-group">
-        <label for="newPassword">New Password:</label>
-        <input type="password" id="newPassword" name="newPassword" [(ngModel)]="resetData.newPassword" required>
-      </div>
-      <div class="form-group">
-        <label for="confirmPassword">Confirm Password:</label>
-        <input type="password" id="confirmPassword" name="confirmPassword" [(ngModel)]="resetData.confirmPassword" required>
-      </div>
-      <button type="submit">Reset Password</button>
-    </form>
-  </div>
-  
+  <h2>Password Reset</h2>
+  <form (ngSubmit)="submitForm()">
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" [(ngModel)]="resetData.email" required>
+    </div>
+    <div class="form-group">
+      <label for="newPassword">New Password:</label>
+      <input type="password" id="newPassword" name="newPassword" [(ngModel)]="resetData.newPassword" required>
+    </div>
+    <div class="form-group">
+      <label for="confirmPassword">Confirm Password:</label>
+      <input type="password" id="confirmPassword" name="confirmPassword" [(ngModel)]="resetData.confirmPassword" required>
+    </div>
+    <div class="error-message" *ngIf="error">{{ error }}</div>
+    <button type="submit">Reset Password</button>
+  </form>
+</div>
